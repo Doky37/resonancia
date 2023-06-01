@@ -1,0 +1,17 @@
+body {
+
+  background-color: #fbf7f7;
+  border-top: 40px;
+  border-image: url("/Users/Doky37/Documents/GitHub/empatia/resonancia/imagenes/CARTAS.jpeg");
+  
+}
+h1 {
+text-transform: uppercase;
+text-align: center;
+font-size: 50px;
+font-family: "Times New Roman", Times, serif;
+}
+p {
+	font-family: "Helvetica",sans-serif;
+	margin:10px;
+}
